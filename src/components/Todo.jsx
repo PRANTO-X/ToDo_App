@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import TodoList from './todoList'
+import TodoList from './TodoList'
 import { useSelector } from 'react-redux'
 
 const Todo = () => {
